@@ -1,1 +1,2 @@
 This is story chapter 1.
+This is a story adding new branch.
